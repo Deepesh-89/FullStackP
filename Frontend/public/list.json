@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"Collection",
+        "title":"lorem ipsum dolor sit amet",
+        "category":"A",
+        "image":"https://img.freepik.com/premium-vector/man-woman-sorting-recycling-bins-city-street_1334819-19174.jpg?uid=R168124184&ga=GA1.1.1783565152.1726150087&semt=ais_hybrid"
+    },
+    {
+        "id":2,
+        "name":"Recycling",
+        "title":"lorem ipsum dolor sit amet",
+        "category":"A",
+        "image":"https://img.freepik.com/premium-photo/recycle-symbol-made-from-waste-plastic-against-blurred-city-background_1156689-14941.jpg?uid=R168124184&ga=GA1.1.1783565152.1726150087&semt=ais_hybrid"
+    },
+    {
+        "id":3,
+        "name":"Products",
+        "title":"lorem ipsum dolor sit amet",
+        "category":"A",
+        "image":"https://img.freepik.com/free-photo/top-view-recycle-concept_23-2148576723.jpg?uid=R168124184&ga=GA1.1.1783565152.1726150087&semt=ais_hybrid"
+    },
+    {
+        "id":4,
+        "name":"Collection",
+        "title":"lorem ipsum dolor sit amet",
+        "category":"A",
+        "image":"https://img.freepik.com/premium-vector/man-woman-sorting-recycling-bins-city-street_1334819-19174.jpg?uid=R168124184&ga=GA1.1.1783565152.1726150087&semt=ais_hybrid"
+    },
+    {
+        "id":5,
+        "name":"Recycling",
+        "title":"lorem ipsum dolor sit amet",
+        "category":"A",
+        "image":"https://img.freepik.com/premium-photo/recycle-symbol-made-from-waste-plastic-against-blurred-city-background_1156689-14941.jpg?uid=R168124184&ga=GA1.1.1783565152.1726150087&semt=ais_hybrid"
+    },
+    {
+        "id":6,
+        "name":"Products",
+        "title":"lorem ipsum dolor sit amet",
+        "category":"A",
+        "image":"https://img.freepik.com/free-photo/top-view-recycle-concept_23-2148576723.jpg?uid=R168124184&ga=GA1.1.1783565152.1726150087&semt=ais_hybrid"
+    }
+]
